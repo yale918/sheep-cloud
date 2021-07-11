@@ -1,18 +1,32 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <!--
     <p>
       A very convenient cloud for you
-      <!-- <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>. -->
+      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
-    <h3>Services</h3>
+    
+    
+    -->
+
+    <a href="https://yale918.github.io/asp/" target="_blank">S</a>
+    er
+    <a href="https://nfclone918.herokuapp.com/" target="_blank">v</a>
+    ice
+    <a href="http://yale918.byethost7.com/" target="_blank">s</a>
+    
     <ul>
       <li><a href="https://igclone918.herokuapp.com" target="_blank" rel="noopener">SheepCloud</a></li>
       <li><a href="https://qforum918.herokuapp.com" target="_blank" rel="noopener">QForum</a></li>
-      <li><a href="https://yale918.github.io/asp/" target="_blank" rel="noopener">AppleSheep</a></li>
-      <li><a href="https://nfclone918.herokuapp.com/" target="_blank" rel="noopener">NFclone</a></li>
-      <li><a href="http://yale918.byethost7.com/" target="_blank" rel="noopener">Discuz</a></li>
       <li><a href="https://fathomless-stream-65606.herokuapp.com/" target="_blank" rel="noopener">ioChat</a></li>
+      
+      <!--
+        <li><a href="https://yale918.github.io/asp/" target="_blank" rel="noopener">AppleSheep</a></li>
+        <li><a href="https://nfclone918.herokuapp.com/" target="_blank" rel="noopener">NFclone</a></li>
+        <li><a href="http://yale918.byethost7.com/" target="_blank" rel="noopener">Discuz</a></li>
+      -->
+
     </ul>
     <!--
     <h3>Essential Links</h3>
@@ -36,12 +50,16 @@
 </template>
 
 <script>
+
 export default {
   name: 'HelloWorld',
   props: {
     msg: String
   }
 }
+
+
+
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->

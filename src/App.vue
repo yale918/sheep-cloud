@@ -2,6 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/sheep-cloud.jpg">
     <HelloWorld msg="SheepCloud"/>
+    
   </div>
 </template>
 
